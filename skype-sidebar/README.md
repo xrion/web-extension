@@ -1,8 +1,8 @@
-# Trello as a Sidebar for Firefox
+# Skype as a Sidebar for Firefox
 
 ## What it does
 
-Allows it to run [Trello](https://trello.com) as a sidebar on your browser.
+Allows it to run [Skype](https://web.skype.com) as a sidebar on your browser.
 <!--
 ## Screenshot
 

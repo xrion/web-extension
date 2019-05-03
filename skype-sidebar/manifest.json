@@ -1,8 +1,8 @@
 {
 
   "manifest_version": 2,
-  "name": "Trello as a Sidebar",
-  "description": "Displays a sidebar that lets your projects with Trello.",
+  "name": "Skype as a Sidebar",
+  "description": "Displays a sidebar that lets you discuss on Skype.",
   "version": "1.0",
   "applications": {
     "gecko": {
@@ -20,7 +20,7 @@
       "48": "icons/icon_48.png",
       "96": "icons/icon_96.png"
     },
-    "default_title" : "Trello Sidebar",
+    "default_title" : "Skype Sidebar",
     "default_panel": "index.html"
   },
 
@@ -29,7 +29,7 @@
   "commands": {
     "_execute_sidebar_action": {
       "suggested_key": {
-        "default": "Ctrl+Alt+X"
+        "default": "Ctrl+Alt+<"
       }
     }
   }
