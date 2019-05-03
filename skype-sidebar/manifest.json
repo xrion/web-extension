@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Skype as a Sidebar",
-  "description": "Displays a sidebar that lets you discuss on Skype.",
+  "description": "Displays a sidebar that let you access and send skype messages.",
   "version": "1.0",
   "applications": {
     "gecko": {
@@ -12,13 +12,13 @@
 
   "icons": {
     "48": "icons/icon_48.png",
-    "96": "icons/icon_96.png"
+    "64": "icons/icon_64.png"
   },
 
   "sidebar_action": {
     "default_icon": {
       "48": "icons/icon_48.png",
-      "96": "icons/icon_96.png"
+      "64": "icons/icon_64.png"
     },
     "default_title" : "Skype Sidebar",
     "default_panel": "index.html"
@@ -29,7 +29,7 @@
   "commands": {
     "_execute_sidebar_action": {
       "suggested_key": {
-        "default": "Ctrl+Alt+<"
+        "default": "Ctrl+Alt+Q"
       }
     }
   }
